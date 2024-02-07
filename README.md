@@ -68,7 +68,7 @@ Push the Docker Image
 docker push your_username/devops-workshop:latest
 ```
 
-![DockerHub](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/dockerhub.png?raw=true)
+![DockerHub](https://github.com/Sarcasticsalad/DevOps-Workshop/blob/main/Images/dockerhub.png)
 
 
 
