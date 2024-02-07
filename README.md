@@ -3,7 +3,8 @@ A simple hello-world for composer
 
 Installation using Dockerfile
 ------------
-docker build -t workshop .
+Build Docker Image
+``` docker build -t workshop .
 
 Install with composer
 ``` bash
