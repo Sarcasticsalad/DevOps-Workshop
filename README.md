@@ -19,7 +19,6 @@ Build and run Docker Image
 ``` bash
 docker-compose up -d
 ```
-
 Install with composer
 ``` bash
 composer require silarhi/hello-world
@@ -41,3 +40,35 @@ use Silarhi\Hello;
 $hello = new Hello();
 echo $hello->display() . "\n";
 ```
+
+Access the Application
+------------
+
+Access the application using <ip-address>:8080
+
+![Site Demo](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/browser.png?raw=true)
+
+Configure GitHub Actions
+------------
+
+![GitHub Actions](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/actions.png?raw=true)
+
+Build Docker Image
+``` bash
+docker build -t your_username/devops-workshop:latest .
+```
+
+Login to DockerHub
+``` bash
+docker login
+```
+
+Push the Docker Image
+``` bash
+docker push your_username/devops-workshop:latest
+```
+
+![DockerHub](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/dockerhub.png?raw=true)
+
+
+
