@@ -46,7 +46,7 @@ Access the Application
 
 Access the application using <ip-address>:8080
 
-![Site Demo](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/browser.png?raw=true)
+![Site Demo](https://github.com/Sarcasticsalad/DevOps-Workshop/blob/main/Images/AWS%20assignment.png)
 
 Configure GitHub Actions
 ------------
