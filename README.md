@@ -51,7 +51,7 @@ Access the application using <ip-address>:8080
 Configure GitHub Actions
 ------------
 
-![GitHub Actions](https://github.com/nishant-nez/powerworkshop-DevOps/blob/main/images/actions.png?raw=true)
+![GitHub Actions](https://github.com/Sarcasticsalad/DevOps-Workshop/blob/main/Images/Github_workflow.png)
 
 Build Docker Image
 ``` bash
