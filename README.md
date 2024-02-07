@@ -7,6 +7,14 @@ Build Docker Image
 ``` 
 docker build -t workshop .
 ```
+Run Docker Image
+``` 
+docker run -dp 0.0.0.0:8080:80 workshop
+```
+Run Docker Image
+``` bash
+docker run -dp 0.0.0.0:8080:80 workshop
+```
 
 Install with composer
 ``` bash
