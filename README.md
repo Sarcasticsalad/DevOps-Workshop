@@ -1,9 +1,9 @@
 # php-hello-world
 A simple hello-world for composer
 
-Installation
+Installation using Dockerfile
 ------------
-
+docker build -t workshop .
 
 Install with composer
 ``` bash
